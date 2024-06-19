@@ -1,0 +1,14 @@
+{
+  "name": "7.add-subtract",
+  "version": "1.0.0",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MTz",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.1.1"
+  }
+}
